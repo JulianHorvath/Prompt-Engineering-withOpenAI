@@ -1,2 +1,2 @@
 # Prompt-Engineering-withOpenAI
-Having fun with OpenAI library
+Having some fun with OpenAI library
